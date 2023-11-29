@@ -1,0 +1,18 @@
+p{
+    color: white;
+    size: 30px;
+    font-family: Arial;
+    font-size: 30px;
+    
+    
+}
+
+.border{
+    background-color: black;
+    background-size: 400px; width: 500px;
+    padding:0 250px;
+    border-radius: 15px;
+     margin-left: 500px;
+
+
+}
